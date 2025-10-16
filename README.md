@@ -1,5 +1,12 @@
 # 🤖 AI for SDG 2: Advanced Crop Yield Prediction
 
+### ## 🚀 Elevator Pitch Deck
+
+You can download or view the full presentation PDF by clicking the link below:
+
+[**View my Pitch Deck Presentation **](https://www.canva.com/design/DAG1-t0-3ZI/MH6rylOw9u9GgJmGBYeagg/edit?utm_content=DAG1-t0-3ZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 This project addresses the **United Nations Sustainable Development Goal 2: Zero Hunger** by developing a comprehensive machine learning solution to predict crop yields. Going beyond a simple prediction, this project scientifically compares multiple models, explains the key factors driving yield, and includes an interactive tool for real-time forecasting.
 
 ---
