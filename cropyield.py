@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1ZzzuUDVUbEB9zKdp1-19Xus6EPaBVlrg
 """
 
+import pandas as pd
+
 df = pd.read_csv('yield_df.csv')
 print(df)
 
@@ -247,4 +249,3 @@ ui = widgets.VBox([
 ])
 display(ui)
 
-import pandas as pd
